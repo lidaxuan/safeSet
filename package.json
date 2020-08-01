@@ -1,0 +1,19 @@
+{
+  "name": "@lijixuan/safe-set",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lidaxuan/safeSet.git"
+  },
+  "author": "15201002062@163.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lidaxuan/safeSet/issues"
+  },
+  "homepage": "https://github.com/lidaxuan/safeSet#readme"
+}
